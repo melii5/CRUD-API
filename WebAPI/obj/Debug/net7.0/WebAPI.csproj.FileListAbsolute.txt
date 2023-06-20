@@ -1,0 +1,200 @@
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Application.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\WebAPI\bin\Debug\net7.0\ErrorOr.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\ErrorOr.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Application.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll

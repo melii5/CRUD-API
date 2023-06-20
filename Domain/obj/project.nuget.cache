@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MMS9S+DSeOPnb2TTzXPkJR6V/TA5MtHMBs2JZJGXaBeyaTPbNyt2PHZvM85pXAzlE4oZHvnOZ/zKxRHi32wOYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melym\\Downloads\\CRUD API\\CleanArchitecture\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melym\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\melym\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\melym\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\melym\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

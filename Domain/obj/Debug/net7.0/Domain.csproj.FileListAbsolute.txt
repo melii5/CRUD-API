@@ -1,0 +1,24 @@
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\VM\RiderProjects\CleanArchitecture\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\melym\Downloads\CRUD API\CleanArchitecture\Domain\obj\Debug\net7.0\ref\Domain.dll
